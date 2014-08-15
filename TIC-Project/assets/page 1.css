@@ -24,7 +24,7 @@ body {
     width: 85.195188%;
     max-width: none;
     height: 181.4375px;
-    margin: 3% 0% 0px 7.51%;
+    margin: 2.999072% 0% 0px 7.327015%;
     clear: none;
     color: rgb(0, 0, 0);
 }
@@ -96,11 +96,11 @@ body {
 
 #image {
     float: right;
-    width: auto;
-    max-width: 100%;
-    height: auto;
+    width: 86.331293%;
+    max-width: none;
+    height: 176.859375px;
     margin-left: 0px;
-    margin-top: -70px;
+    margin-top: -92px;
     clear: both;
     color: rgb(0, 0, 0);
     margin-right: 0%;
@@ -108,7 +108,7 @@ body {
 
 #box2 {
     float: left;
-    height: 36px;
+    height: 36.015625px;
     margin: 0px 0px 0px 0%;
     clear: both;
     width: 100%;
@@ -123,56 +123,100 @@ body {
 }
 
 #box3 {
-    float: left;
-    height: 36px;
-    margin-left: 7.401577%;
+    float: none;
+    height: 36.015625px;
+    margin-left: auto;
     margin-top: 0px;
     clear: none;
-    width: 200.85px;
+    width: 85.26478%;
+    margin-right: auto;
 }
 
-#box4 {
+#text2 {
     float: left;
-    height: 36px;
-    margin-left: 0%;
-    margin-top: 0px;
+    font-size: 22px;
+    width: 24.979887%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.6em;
+    margin-left: -0.00696443%;
+    margin-top: 0.015625px;
     clear: none;
-    width: 21.30004%;
-}
-
-#box5 {
-    float: left;
-    height: 36px;
-    margin-left: 0%;
-    margin-top: 0px;
-    clear: none;
-    width: 21.30004%;
-    display: block;
+    min-height: 36.015625px;
+    font-family: helvetica;
+    font-style: normal;
+    color: rgb(234, 234, 234);
     margin-right: 0%;
 }
 
-#box6 {
+#text3 {
     float: left;
-    height: 36px;
-    margin-left: 0.09113203%;
-    margin-top: 0px;
+    font-size: 22px;
+    width: 24.979887%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.6em;
+    margin-left: 0%;
+    margin-top: 0.03125px;
     clear: none;
-    width: 21.30004%;
+    min-height: 36.015625px;
     display: block;
     margin-right: 0%;
+    font-family: helvetica;
+    font-style: normal;
+    color: rgb(234, 234, 234);
+    opacity: 1;
 }
 
-@media only screen and (max-width: 912px) {
-    #text {
-        font-size: 9em;
-    }
+#text4 {
+    float: left;
+    font-size: 22px;
+    width: 24.979887%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.6em;
+    margin-left: 0%;
+    margin-top: 0.046875px;
+    clear: none;
+    min-height: 36.015625px;
+    display: block;
+    margin-right: 0%;
+    font-family: helvetica;
+    font-style: normal;
+    color: rgb(234, 234, 234);
+    opacity: 1;
+}
 
+#text5 {
+    float: left;
+    font-size: 22px;
+    width: 24.979887%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.6em;
+    margin-left: 0%;
+    margin-top: -0.984375px;
+    clear: none;
+    min-height: 36.015625px;
+    display: block;
+    margin-right: 0%;
+    font-family: helvetica;
+    font-style: normal;
+    color: rgb(234, 234, 234);
+    opacity: 1;
+}
+
+@media only screen and (max-width: 848px) {
     #image {
         margin-right: 0%;
-        margin-top: -70.828125px;
+        margin-top: -92px;
         clear: both;
-        height: 168.84375px;
-        width: 81.458681%;
+        height: 176.859375px;
+        width: 86.331293%;
         max-width: none;
     }
 }
@@ -217,6 +261,26 @@ body {
     #text {
         font-size: 8em;
     }
+
+    #text5 {
+        font-size: 18px;
+        line-height: 1.9em;
+    }
+
+    #text4 {
+        font-size: 18px;
+        line-height: 1.9em;
+    }
+
+    #text3 {
+        font-size: 18px;
+        line-height: 1.9em;
+    }
+
+    #text2 {
+        font-size: 18px;
+        line-height: 1.9em;
+    }
 }
 
 @media only screen and (max-width: 525px) {
@@ -231,6 +295,26 @@ body {
         height: 90.59375px;
         width: 71.441048%;
         max-width: none;
+    }
+
+    #text5 {
+        line-height: 2.2em;
+        font-size: 15px;
+    }
+
+    #text4 {
+        line-height: 2.2em;
+        font-size: 15px;
+    }
+
+    #text3 {
+        line-height: 2.2em;
+        font-size: 15px;
+    }
+
+    #text2 {
+        line-height: 2.2em;
+        font-size: 15px;
     }
 }
 
