@@ -123,6 +123,10 @@ body {
     background-color: rgba(0, 0, 0, 0.721569);
 }
 
+#buttonContainer input:visited {
+    color: rgb(234, 234, 234);
+    background-color: rgba(0, 0, 0, 0.721569);
+}
 
 /* 
  * Footer
