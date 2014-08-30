@@ -1,0 +1,11 @@
+@font-face
+{
+	font-family: helvetica;
+	src: url('helvetica.otf');
+}
+
+div {
+	font-family: helvetica;
+	font-weight: 100;
+
+}
