@@ -1,0 +1,201 @@
+.primaryContainer {
+    max-height: 664px;
+    min-width: 525px;
+    position: relative;
+}
+
+#imgIntro {
+    float: left;
+    width: 85.337686%;
+    max-width: none;
+    height: 181.734375px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    margin-left: 7.327015%;
+    margin-right: 0%;
+    margin-top: 2.966891%;
+    margin-bottom: 0px;
+}
+
+#MidLine {
+    float: left;
+    height: 1px;
+    margin-left: 7.323701%;
+    margin-top: -11.984375px;
+    clear: none;
+    width: 85.268094%;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    background-image:-webkit-linear-gradient(0deg, rgb(239, 239, 239) 35%, rgba(239, 239, 239, 0) 35%, rgba(239, 239, 239, 0) 65%, rgb(239, 239, 239) 65%);
+    background-image: linear-gradient(90deg, rgb(239, 239, 239) 35%, rgba(239, 239, 239, 0) 35%, rgba(239, 239, 239, 0) 65%, rgb(239, 239, 239) 65%);
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    -webkit-filter: blur(0px);
+    filter: blur(0px);
+}
+
+#textMid {
+    float: none;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 3%;
+    clear: none;
+    min-height: 0px;
+    color: #EDEDED;
+    margin-right: auto;
+    margin-bottom: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#boxUp {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    clear: none;
+    width: 85.195188%;
+    max-width: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    margin-right: auto;
+}
+
+#textTIC {
+    float: left;
+    font-size: 10em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 100;
+    line-height: 1em;
+    margin-left: -0.08557481%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(235, 235, 235);
+    font-family: helvetica;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#imgWel {
+    float: right;
+    width: 86.329424%;
+    max-width: none;
+    height: 176.859375px;
+    margin-left: 0px;
+    margin-top: -92px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+@media only screen and (max-width: 800px) {
+    #imgWel {
+        margin-right: 0%;
+        margin-top: -92px;
+        clear: both;
+        height: 176.859375px;
+        width: 86.331293%;
+    }
+
+    #leftf {
+        font-size: 1em;
+    }
+
+    #rightf {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 675px) {
+    #MidLine {
+        margin-left: 7.331019%;
+        margin-top: -20px;
+        clear: none;
+        width: 86.534722%;
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 2px;
+        background-image:-webkit-linear-gradient(0deg, rgb(239, 239, 239) 35%, rgba(239, 239, 239, 0) 35%, rgba(239, 239, 239, 0) 65%, rgb(239, 239, 239) 65%);
+        background-image: linear-gradient(90deg, rgb(239, 239, 239) 35%, rgba(239, 239, 239, 0) 35%, rgba(239, 239, 239, 0) 65%, rgb(239, 239, 239) 65%);
+        background-attachment: scroll;
+        -webkit-background-size: auto;
+        background-size: auto;
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+    }
+
+    #textMid {
+        float: none;
+        font-size: 1.4em;
+        width: auto;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1.6em;
+        margin-left: auto;
+        margin-top: 5%;
+        clear: none;
+        min-height: 0px;
+        color: rgb(223, 223, 223);
+        margin-right: auto;
+    }
+
+    #textTIC {
+        font-size: 8em;
+    }
+
+    #buttonContainer input {
+        font-size: 21px;
+    }
+
+    #imgIntro {
+        margin-top: 5.027778%;
+        margin-left: 7.326389%;
+        clear: none;
+    }
+
+    #Box {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+    }
+}
+
+@media only screen and (max-width: 525px) {
+    #buttonContainer input {
+        font-size: 19px;
+    }
+}

@@ -1,0 +1,153 @@
+/* 
+ * CA Body pC LOGO
+ */
+
+.primaryContainer {
+    background-color: rgb(0, 124, 195);
+}
+
+body {
+    color: rgb(239, 239, 239);
+    background-color: rgb(79, 72, 80);
+    min-width: 525px;
+}
+
+.CA {
+    position: relative;
+    top: 0px;
+    max-height: 664px;
+    height: auto;
+    min-width: 525px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: auto;
+    right: auto;
+}
+
+#LOGO {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: 53px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    min-width: 100%;
+    max-height: 53px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+/* 
+ * Button
+ */
+#Box {
+    height: 36px;
+    clear: both;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    background-color: #000;
+    margin-left: 0%;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+#buttonContainer {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 85.259809%;
+    margin-right: auto;
+    max-width: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+
+#buttonContainer input {
+    float: left;
+    height: 36px;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 25%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    font-weight: 100;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(109, 98, 110);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#buttonContainer input:hover {
+    color: rgb(234, 234, 234);
+    background-color: rgba(31, 31, 31, 0.470588);
+}
+
+#buttonContainer input:active {
+    color: rgb(234, 234, 234);
+    background-color: rgba(0, 0, 0, 0.721569);
+}
+
+
+/* 
+ * Footer
+ */
+
+#footer {
+    float: left;
+    margin: 25px auto;
+    padding-top: auto;
+    padding-bottom: auto;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0%;
+    z-index: 0;
+}
+
+#footer span {
+    text-align: center;
+    position: relative;
+    font-size: 1em;
+    font-weight: 100;
+    line-height: 1em;
+    color: rgb(197, 197, 197);
+    display: block;
+}
+
+

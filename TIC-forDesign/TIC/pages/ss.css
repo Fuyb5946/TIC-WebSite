@@ -1,0 +1,48 @@
+.list {
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: 'Microsoft Yahei';
+    font-size: 16px;
+    min-width: 960px;
+    width: 100%;
+}
+
+.element {
+    background-color: rgb(90, 75, 75);
+    border-bottom-color: rgb(102, 102, 102);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: rgb(221, 221, 221);
+    display: block;
+    font-family: 'Microsoft Yahei';
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    min-width: 720px;
+    width: 100%;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: 'Microsoft Yahei';
+    font-size: 18px;
+    height: 48px;
+    line-height: 48px;
+    width: 720px;
+}
+
+p {
+    color: rgb(221, 221, 221);
+    display: block;
+    font-family: 'Microsoft Yahei';
+    font-size: 13px;
+    height: 44px;
+    line-height: 22px;
+}
